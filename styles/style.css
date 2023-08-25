@@ -19,7 +19,7 @@ body {
 .main-block-message {
     font-size: 23px;
 }
-.footer{
-    width: 100px;
-    height: 100px;
+
+.header {
+    width: 100% ;
 }
